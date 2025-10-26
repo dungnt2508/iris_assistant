@@ -744,7 +744,7 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 # AI Models
 PRIMARY_AI_PROVIDER=litellm
 LITELLM_API_KEY=your-litellm-key
-LITELLM_BASE_URL=https://ai-proxy.pnj.ai
+LITELLM_BASE_URL=https://your-site.com.vn
 OPENAI_API_KEY=your-openai-key-for-fallback
 
 # Logging
