@@ -1324,7 +1324,7 @@ Proprietary - All rights reserved.
 
 Để được hỗ trợ hoặc báo cáo vấn đề:
 - Tạo issue trên GitHub
-- Liên hệ team qua email
+- Liên hệ team qua email: ntdung2508@gmail.com
 - Check documentation trong folder `docs/`
 
 ---
